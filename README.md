@@ -31,7 +31,7 @@ We should be able to run the test suite ourselves, both for cypress but also for
 - Test cases: USA 15 of aug 2021. United Kingdom 01 of jan 2015
 - Ensure that the API give correct response based on correct and incorrect formatting 
 - Find the rate limit policies and validate they are enforced
-
+- Load test the api, what is the avg. response time over an periode 
 
 ### Bonus
 
@@ -56,7 +56,10 @@ Here's what you should strive for:
 
 ## Questionnaire
 Please fill out this questionnaire and commit your answers to the repo 
-...
+- What is the most important job of a QA engineer in a product team? 
+- What are the main KPIs for a QA engineer? 
+- What would the stack look like if you should design a QA environment from scratch today? 
+- How would you involve the QA Framework in the product team, from design to engineering?
 
 
 ## Q&A
