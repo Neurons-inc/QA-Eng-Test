@@ -15,23 +15,22 @@ We should be able to run the test suite ourselves, both for cypress but also for
 ## Test cases 
 
 ### Trello with Cypress.js 
-Create 10 random fruits name cards 
-Add random lipsum in description to the 10 cards
-Add add #n of comments on each card 
-Move random cards around in the difference columns 
-Delete all the fruit cards 
-Find the max length of card names
-Find the max numbers of cards that can be created 
-Delete all cards 
+- Create 10 random fruits name cards 
+- Add random lipsum in description to the 10 cards
+- Add add #n of comments on each card 
+- Move random cards around in the difference columns 
+- Delete all the fruit cards 
+- Find the max length of card names
+- Find the max numbers of cards that can be created 
+- Delete all cards 
 
 ### TV Maze with postman 
-Set up a test suit for this public API http://api.tvmaze.com/schedule 
-URL: /schedule?country=:countrycode&date=:date
-(optional) countrycode: an ISO 3166-1 code of the country; defaults to US
-(optional) date: an ISO 8601 formatted date; defaults to the current day
-Test cases: USA 15 of aug 2021. United Kingdom 01 of jan 2015
-Ensure that the API give correct response based on correct and incorrect formatting 
-Find the rate limit policies and validate they are enforced
+- Set up a test suit for this public API http://api.tvmaze.com/schedule URL: /schedule?country=:countrycode&date=:date
+- (optional) countrycode: an ISO 3166-1 code of the country; defaults to US
+- (optional) date: an ISO 8601 formatted date; defaults to the current day
+- Test cases: USA 15 of aug 2021. United Kingdom 01 of jan 2015
+- Ensure that the API give correct response based on correct and incorrect formatting 
+- Find the rate limit policies and validate they are enforced
 
 
 ### Bonus
